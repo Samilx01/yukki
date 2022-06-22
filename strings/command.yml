@@ -14,11 +14,11 @@
 PING_COMMAND : ["ping"]
 START_COMMAND : ["start"]
 HELP_COMMAND : ["help"]
-SETTINGS_COMMAND : ["settings", "setting"]
+SETTINGS_COMMAND : ["ayar", "settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["stats"]
-LANGUAGE_COMMAND : ["lang", "language", "langs"]
+LANGUAGE_COMMAND : ["dil", "lang", "language", "langs"]
 
 # Play Commands
 PLAY_COMMAND : ["oynat", "play", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
@@ -48,7 +48,7 @@ UNMUTE_COMMAND : ["unmute", "cunmute"]
 STOP_COMMAND : ["son", "bitir", "stop", "end", "cstop", "cend"]
 SKIP_COMMAND : ["atla", "skip", "cskip"]
 SHUFFLE_COMMAND : ["karistir", "shuffle", "cshuffle"]
-LOOP_COMMAND : ["loop", "cloop"]
+LOOP_COMMAND : ["döngü", "loop", "cloop"]
 SEEK_COMMAND : ["ileri", "seek", "geri", "cseek", "seekback", "cseekback"]
 RESTART_COMMAND : ["restart"]
 
